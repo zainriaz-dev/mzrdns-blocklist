@@ -1,0 +1,2 @@
+# mzrdns-blocklist
+mzrdns-blocklist
